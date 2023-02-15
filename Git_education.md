@@ -21,6 +21,7 @@
 > цитируемый текст
 
 После фразы "This is standard text", дважды нажмите Enter или Shift-Enter, чтобы начать новый абзац. Добавьте четыре пробела перед
+
     "This is a highlighted paragraph"
 
 ## ненумерованный список
