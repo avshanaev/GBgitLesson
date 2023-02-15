@@ -24,6 +24,11 @@
 
     "This is a highlighted paragraph"
 
+
+[Текст ссылки](URL_ссылки)
+Например:
+[Habitica](https://habitica.com)
+
 ## ненумерованный список
 * первое
 * второе
