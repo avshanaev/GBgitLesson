@@ -46,3 +46,4 @@
 * git branch name - слив веток
 
 * conflict string
+* первая ветка
