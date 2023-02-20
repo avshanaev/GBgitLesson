@@ -44,3 +44,7 @@
 * git branch - команда вывода ветки.
 * git branch name - содание новой ветки
 * git branch name - слив веток
+
+
+
+* 3я ветка
